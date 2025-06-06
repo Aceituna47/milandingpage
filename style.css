@@ -1,0 +1,160 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.mi-seccion {
+  background-color: rgba(163, 190, 7, 0.889);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  padding-top: 20px;
+}
+.encabezado {
+  background-color: rgba(197, 9, 9, 0.589);
+  width: 90%;
+  height: 25%;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;     
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+
+.titulo {
+    background-color: darkgreen;
+    width: 60%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.barra {
+  background-color: #003366;
+  width: 100%;
+  height: 50px;
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  display: none;
+}
+
+.barra-2 {
+    background-color: black;
+    width: 100%;
+    height: 20%;
+    
+}
+
+.contenedor {
+    background-color: rgba(143, 142, 142, 0.889);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 15px;
+    width: 90%;
+    height: 500px;
+    margin-top: 15px;
+}
+
+.modulos {
+    background-color: aqua;
+    width: 60%;
+    height: 100%;
+    gap: 15px;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.modulo-1 {
+    background-color: gold;
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.modulo-2 {
+    background-color: gold;
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.modulo-3 {
+    background-color: gold;
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+   border-radius: 20px;
+   border: 1px solid black;
+}
+
+.extra-modulo {
+    background-color: gold;
+    width: 90%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+   border-radius: 20px;
+   border: 1px solid black;
+}
+
+
+
+.contenedor-2 {
+    background-color: deeppink;
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.membresia {
+    background-color: rgb(8, 69, 160);
+    width: 80%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.boton {
+    width: 15px;
+}
+
+
+
+
+.formulario {
+    background-color: rgb(8, 69, 160);
+    width: 80%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+
